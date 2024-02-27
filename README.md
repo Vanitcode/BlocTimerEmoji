@@ -1,16 +1,5 @@
-# flutter_timer
+# A bloc Timer Emoji
 
-A new Flutter project.
+A slightly different version than the one presented at https://bloclibrary.dev/#/fluttertimertutorial.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this repository, I have followed the steps in the tutorial to learn how to create a project that follows the structure proposed by bloc library. I have allowed myself the license to modify the view so that it shows an emoji instead of the timer.
